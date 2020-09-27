@@ -6,7 +6,7 @@ import { ReactComponent as SearchIcon } from "./searchIcon.svg";
 import NavMenu from "./NavMenu";
 
 const Header = styled.header`
-  padding: 0.4rem 1rem;
+  padding: 1rem 1rem 0.6rem;
 `;
 
 const Logo = styled.div`
